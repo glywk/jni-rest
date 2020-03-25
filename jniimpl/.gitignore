@@ -1,0 +1,11 @@
+*.DS_Store
+*.class
+*.o
+*.jnilib
+*.so
+
+examples/macos/*.h
+
+examples/android/*.h
+examples/android/obj
+examples/android/libs
